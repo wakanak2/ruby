@@ -1,3 +1,4 @@
+
 total_price=110
 
 if total_price>100
